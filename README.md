@@ -1,6 +1,6 @@
 # Hi there, I'm hub4ata! 👋
 
-![Blue banner](https://singlecolorimage.com/get/1e90ff/1200x200) <!-- (Optional: Replace with your custom banner if you wish) -->
+![Blue banner](https://future4earth.uk/images/blue%20banner.png) <!-- (Optional: Replace with your custom banner if you wish) -->
 
 ## 👨‍⚕️ About Me
 
