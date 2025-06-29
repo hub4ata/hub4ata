@@ -1,5 +1,3 @@
-# Hi there, I'm Mohamed 👋
-
 ![Blue banner](https://future4earth.uk/images/blue%20banner.png) <!-- (Optional: Replace with your custom banner if you wish) -->
 
 ## 👨‍⚕️ About Me
