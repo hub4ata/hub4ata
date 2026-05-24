@@ -1,4 +1,4 @@
-![Blue banner](https://future4earth.uk/images/blue%20banner.png) <!-- (Optional: Replace with your custom banner if you wish) -->
+![Blue banner](https://blogger.googleusercontent.com/img/a/AVvXsEjWHYFijaln5M2KdiPw5WlOdd8xUfdm_I_yJLwPp2mIGqbHXk_2PXC50Kmey_Q1XeWKVffhBzk1DpYCpf-LuRu5nJs96WnQeuhNUt9rJdkIf6c87Ac1qeSOv-0oEw2cjtHFf1atveO_6l7I8ZI-IfijB8H-EKt4CeY2TA32k6sE0vbszx3uHx26fz8sNA=s650) <!-- (Optional: Replace with your custom banner if you wish) -->
 
 ## 👨‍⚕️ About Me
 
