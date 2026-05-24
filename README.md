@@ -11,8 +11,6 @@
 ## 🚀 What I'm Working On
 
 - ✍️ **Blogging:** [Arab Healing](https://arabhealing.blogspot.com/) – Sharing insights and resources for personal and community healing
-- 🌱 **Web Design:** [Future4Earth.uk](https://future4earth.uk/) – Designing a site dedicated to a better, greener planet
-
 ## 🛠️ Skills & Tools
 
 - **Web Design:** HTML, CSS
